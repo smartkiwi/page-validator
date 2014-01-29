@@ -1,4 +1,4 @@
-# Page::Validator
+# PageValidator
 
 Page validation helpers for page-object based testing projects.
 
